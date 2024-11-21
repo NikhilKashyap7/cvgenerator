@@ -36,37 +36,37 @@ function generateresume() {
       <section class="technical-skills">
         <h2>Technical Skills</h2>
         <ul>
-          <li>"${tech1}"</li>
-          <li>"${tech2}"</li>
-          <li>"${tech3}"</li>
-          <li>"${tech4}"</li>
-          <li>"${tech5}"</li>
+          <li>${tech1}</li>
+          <li>${tech2}</li>
+          <li>${tech3}</li>
+          <li>${tech4}</li>
+          <li>${tech5}</li>
         </ul>
       </section>
       <section class="experience">
         <h2>Work Experience</h2>
         <div class="job">
           <h3>Web Developer</h3>
-          <p>Precious Technology Co. | 09/2016 - Present | Long Beach, CA</p>
+          <p> </p>
           <ul>
-            <li>Designed user-friendly websites, optimizing checkout pages to increase user clicks by 25%.</li>
+            <li></li>
             <li>Trained 60+ staff members in web development tools.</li>
-            <li>Established high-performing, interactive sites, leading to a 45% revenue increase.</li>
+            <li></li>
           </ul>
         </div>
         <div class="job">
           <h3>Web Developer</h3>
-          <p>Virtual Solutions International Company | 04/2012 - 08/2016 | Sacramento, CA</p>
+          <p></p>
           <ul>
-            <li>Improved performance by 10% through optimized processes.</li>
-            <li>Built responsive WordPress sites using Custom Post Types and APIs.</li>
+            <li></li>
+            <li></li>
           </ul>
         </div>
       </section>
       <section class="education">
         <h2>Education</h2>
-        <p>BS in Web Development, California State University</p>
-        <p>08/2008 - 06/2012 | GPA: 3.8/4.0</p>
+        <p></p>
+        <p></p>
       </section>
     </main>
   </div>
